@@ -1,22 +1,33 @@
-# week1-code-challenge
-Challenge 1: Student Grade Generator (Toy Problem)
-Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
+# Description
+- This is week one code challenge in JavaScript.    - Challenge one generates grades for students,
+- challenge two detects car speed and the last 
+- challenge calculate an individual’s Net Salary.
 
-A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+## Getting Started
+- For someone to use the content on this repo ensure you have the following:
 
- 
+- A computer that runs on either Windows 7+, Linux or Mac OS
+- nodejs 9.0+
+# Installation
+- To use this repo on your console requires some simple steps:
 
-Challenge 2: Speed Detector (Toy Problem)
-Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+- Open the terminal on your computer
+- Clone the repo
+- Change directory to the new repo folder
+- Open it in VS Code.
+- Running the application
+- Running the application is very straight forward. - You can use the following steps to run the app.
 
-For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+- Run the application on the browser requires you to run the following command.
+- student grade 
+node studentGG.js
+- speed detector
+speedDetector.js
+- net salary 
+netsalary.js
 
- 
-
-Challenge 3: Net Salary Calculator (Toy Problem)
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
-NB: Use KRA, NHIF, and NSSF values provided in the link below.
-
-https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.  
-
-https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+# Authors
+This project was contributed to by:
+(khalid)[https://github.com/certihimo]
+# License
+The project is licensed under Apache 2.0.
