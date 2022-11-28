@@ -28,6 +28,6 @@ netsalary.js
 
 # Authors
 This project was contributed to by:
-(khalid)[https://github.com/certihimo]
+[khalid](https://github.com/certihimo)
 # License
 The project is licensed under Apache 2.0.
